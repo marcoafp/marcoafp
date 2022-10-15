@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @marcoafp
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning HTML, CSS & PHP
